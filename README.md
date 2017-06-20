@@ -1,0 +1,1 @@
+Ejemplo de media query con min-width y max-width
